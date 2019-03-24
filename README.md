@@ -4,3 +4,5 @@ Performed Exploratory Data Analysis, Data Cleaning and Text Featurization(BOW, t
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 Results of different applied models can be noticed in each corresponding file.
+
+NB: This project was done as a part of assignment for machine Learning course taken at appliedaicourse.com/
